@@ -1,2 +1,19 @@
--> Criar Registo
-efgrijer98
+-> Criar Registo (Utente)
+
+-> Cria Registo (Funcionário RH)
+
+-> Prescrever Receitas (Médico)
+
+-> Consultar Agenda (Funcionário SNS)
+
+-> Marcar Exames e Consultas adicionais (Médico)
+
+-> Emitir declarações de presença (Pessoal Administrativo)
+
+-> Efetuar cobranças dos Serviços Prestados (Pessoal Administrativo)
+
+-> Atualizar Registo de Vacinas (Enfermeiro)
+
+-> Consultar Dados dos Pacientes (Médico)
+
+-> Manter Registo das Medições do Índice Glicémico
