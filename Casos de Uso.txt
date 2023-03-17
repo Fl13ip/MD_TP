@@ -17,3 +17,16 @@
 -> Consultar Dados dos Pacientes (Médico)
 
 -> Manter Registo das Medições do Índice Glicémico
+
+
+Perguntas a fazer:
+
+-> A maneira como a Base de Dados está implementada está correta?
+
+-> Os Farmacêuticos são Stakeholders?
+
+-> Todos os Funcionários do SNS consultam a agenda?
+
+-> Falamos dos Utentes Diabéticos isoladamente dos Utentes?
+
+
