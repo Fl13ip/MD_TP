@@ -21,7 +21,7 @@
 
 Perguntas a fazer:
 
--> A maneira como a Base de Dados está implementada está correta?
+-> A maneira como a Base de Dados está implementada está correta? Não! Ela é interna logo não necessita de estar representada
 
 -> Os Farmacêuticos são Stakeholders?
 
