@@ -1,12 +1,12 @@
--> Criar Registo (Utente)
+-> Criar Registo (Utente) DONE
 
 -> 
 
--> Prescrever Receitas (Médico)
+-> Prescrever Receitas (Médico) DONE
 
--> Consultar Agenda (Funcionário SNS)
+-> Consultar Agenda (Funcionário SNS) DONE
 
--> Marcar Exames (Médico)
+-> Marcar Exames (Médico) DONE
 
 --------------------------------------------------------------------
 
@@ -14,13 +14,13 @@
 
 -> Emitir declarações de presença (Pessoal Administrativo)
 
--> Efetuar cobranças dos Serviços Prestados (Pessoal Administrativo)
+-> Efetuar cobranças dos Serviços Prestados (Pessoal Administrativo) DONE
 
--> Atualizar Registo de Vacinas (Enfermeiro)
+-> Atualizar Registo de Vacinas (Enfermeiro) DONE
 
--> Consultar Dados dos Pacientes (Médico)
+-> Consultar Dados dos Pacientes (Médico) DONE
 
--> Manter Registo das Medições do Índice Glicémico
+-> Manter Registo das Medições do Índice Glicémico DONE
 
 
 Perguntas a fazer:
