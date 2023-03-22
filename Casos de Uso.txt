@@ -1,12 +1,16 @@
 -> Criar Registo (Utente)
 
--> Cria Registo (Funcionário RH)
+-> 
 
 -> Prescrever Receitas (Médico)
 
 -> Consultar Agenda (Funcionário SNS)
 
--> Marcar Exames e Consultas adicionais (Médico)
+-> Marcar Exames (Médico)
+
+--------------------------------------------------------------------
+
+-> Marcar Consultas Adicionais (Médico)
 
 -> Emitir declarações de presença (Pessoal Administrativo)
 
