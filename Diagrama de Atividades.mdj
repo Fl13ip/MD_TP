@@ -212,7 +212,7 @@
 									"top": 36,
 									"width": 321,
 									"height": 13,
-									"text": "Sistema de Validação do Utente",
+									"text": "Funcionários dos Recursos Humanos",
 									"verticalAlignment": 3
 								}
 							],
@@ -1100,7 +1100,7 @@
 											"top": 351,
 											"width": 79,
 											"height": 30,
-											"text": "Envia os dados do utente para aprovação",
+											"text": "Envia os dados beneficiários para aprovação",
 											"wordWrap": true
 										},
 										{
@@ -1207,7 +1207,7 @@
 											"top": 351,
 											"width": 95,
 											"height": 30,
-											"text": "Envia os dados benificiários para aprovação",
+											"text": "Envia os dados do utente para aprovação",
 											"wordWrap": true
 										},
 										{
@@ -1527,9 +1527,9 @@
 											"font": "Arial;10;0",
 											"left": 1032,
 											"top": -1184,
-											"width": 171.5625,
+											"width": 196.181640625,
 											"height": 10,
-											"text": "(from Sistema de Validação do Utente)"
+											"text": "(from Funcionários dos Recursos Humanos)"
 										},
 										{
 											"_type": "LabelView",
@@ -2151,7 +2151,7 @@
 											"top": -128,
 											"width": 223.03125,
 											"height": 10,
-											"text": "(from Sistema de Validação do Utente)"
+											"text": "(from Funcionários dos Recursos Humanos)"
 										},
 										{
 											"_type": "LabelView",
@@ -4198,7 +4198,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHmlnvISWXwEc="
 					},
-					"name": "Envia os dados benificiários para aprovação"
+					"name": "Envia os dados do utente para aprovação"
 				},
 				{
 					"_type": "UMLForkNode",
@@ -4925,7 +4925,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGHmlrEmSWlbfQ="
 							},
-							"name": "Envia os dados do utente para aprovação"
+							"name": "Envia os dados beneficiários para aprovação"
 						},
 						{
 							"_type": "UMLAction",
@@ -4985,7 +4985,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGHmlnvISWXwEc="
 					},
-					"name": "Sistema de Validação do Utente",
+					"name": "Funcionários dos Recursos Humanos",
 					"nodes": [
 						{
 							"_type": "UMLAction",
