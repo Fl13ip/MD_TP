@@ -588,7 +588,7 @@
 												"$ref": "AAAAAAGIcmmRIBevgJA="
 											},
 											"edgePosition": 1,
-											"text": "requereRegisto(Dados)"
+											"text": "requerRegisto(Dados)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1038,7 +1038,7 @@
 												"$ref": "AAAAAAGIcojm1Rn+H3Q="
 											},
 											"edgePosition": 1,
-											"text": "\"Requere dados dos pais\" = validaIdade()"
+											"text": "\"Requer dados dos pais\" = validaIdade()"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1275,7 +1275,7 @@
 												"$ref": "AAAAAAGIcous0BpD5nI="
 											},
 											"edgePosition": 1,
-											"text": "requereRegisto(DadosAdicionais)"
+											"text": "requerRegisto(DadosAdicionais)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3573,7 +3573,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIbmOVlJOKi1U="
 							},
-							"name": "requereRegisto(Dados)",
+							"name": "requerRegisto(Dados)",
 							"source": {
 								"$ref": "AAAAAAGIbpYtAJOfgtU="
 							},
@@ -3617,7 +3617,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIbmOVlJOKi1U="
 							},
-							"name": "\"Requere dados dos pais\" = validaIdade()",
+							"name": "\"Requer dados dos pais\" = validaIdade()",
 							"source": {
 								"$ref": "AAAAAAGIbv59lJPBMAQ="
 							},
@@ -3632,7 +3632,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIbmOVlJOKi1U="
 							},
-							"name": "requereRegisto",
+							"name": "requerRegisto",
 							"source": {
 								"$ref": "AAAAAAGIbpYtAJOfgtU="
 							},
@@ -4083,7 +4083,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGIbmOVlJOJsp8="
 					},
-					"name": "Role5"
+					"name": "Role5",
+					"type": ""
 				}
 			]
 		}
