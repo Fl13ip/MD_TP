@@ -2040,7 +2040,7 @@
 												"$ref": "AAAAAAGIcpoXbxsmFjs="
 											},
 											"edgePosition": 1,
-											"text": "\"Resposta da registo\" = validaDadosUtente(Dados)"
+											"text": "\"Resposta de registo\" = validaDadosUtente(Dados)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3926,7 +3926,7 @@
 							},
 							"messageSort": "reply",
 							"arguments": "Dados",
-							"assignmentTarget": "\"Resposta da registo\""
+							"assignmentTarget": "\"Resposta de registo\""
 						},
 						{
 							"_type": "UMLMessage",
