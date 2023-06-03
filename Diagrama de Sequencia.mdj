@@ -578,9 +578,9 @@
 												"$ref": "AAAAAAGIcmmRIBeuxCs="
 											},
 											"font": "Arial;13;0",
-											"left": 190,
+											"left": 188,
 											"top": 120,
-											"width": 135.12255859375,
+											"width": 138.0234375,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
@@ -588,7 +588,7 @@
 												"$ref": "AAAAAAGIcmmRIBevgJA="
 											},
 											"edgePosition": 1,
-											"text": "requerRegisto(Dados)"
+											"text": "preencheDados(Dados)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -3573,7 +3573,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGIbmOVlJOKi1U="
 							},
-							"name": "requerRegisto(Dados)",
+							"name": "preencheDados(Dados)",
 							"source": {
 								"$ref": "AAAAAAGIbpYtAJOfgtU="
 							},
