@@ -622,7 +622,7 @@
 											"left": 383,
 											"top": 156,
 											"width": 14,
-											"height": 301
+											"height": 325
 										}
 									],
 									"font": "Arial;13;0",
@@ -1013,7 +1013,7 @@
 												"$ref": "AAAAAAGIfcvB6NY8XAk="
 											},
 											"edgePosition": 1,
-											"text": "enviaRegisto(Dados)"
+											"text": "enviaRegisto(Utente)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1124,7 +1124,7 @@
 												"$ref": "AAAAAAGIfgNRKvPvUoI="
 											},
 											"edgePosition": 1,
-											"text": "guardaDados(Dados)"
+											"text": "guardaDados(Utente)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1248,7 +1248,7 @@
 												"$ref": "AAAAAAGIfgej9PQVIRw="
 											},
 											"edgePosition": 1,
-											"text": "\"Possibilitar submissão\" = guardaDados()"
+											"text": "\"Possibilitar submissão\" = guardaDados(Utente)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1350,7 +1350,7 @@
 												"$ref": "AAAAAAGIfgql1PQsmF4="
 											},
 											"font": "Arial;13;0",
-											"left": 103,
+											"left": 106,
 											"top": 476,
 											"width": 261.06640625,
 											"height": 13,
@@ -1373,7 +1373,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 233,
+											"left": 236,
 											"top": 491,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1394,7 +1394,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 234,
+											"left": 237,
 											"top": 456,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1428,7 +1428,7 @@
 									"tail": {
 										"$ref": "AAAAAAGIeJ7Fv1sC8PM="
 									},
-									"points": "376:472;92:472",
+									"points": "383:472;92:472",
 									"nameLabel": {
 										"$ref": "AAAAAAGIfgql1PQun+M="
 									},
@@ -1866,7 +1866,7 @@
 							"target": {
 								"$ref": "AAAAAAGIeJ8mL1sdwnM="
 							},
-							"arguments": "Dados"
+							"arguments": "Utente"
 						},
 						{
 							"_type": "UMLMessage",
@@ -1874,13 +1874,14 @@
 							"_parent": {
 								"$ref": "AAAAAAGIeJygVFrIEaA="
 							},
-							"name": "guardaDados(Dados)",
+							"name": "guardaDados",
 							"source": {
 								"$ref": "AAAAAAGIeJ8mL1sdwnM="
 							},
 							"target": {
 								"$ref": "AAAAAAGIeJ8mL1sdwnM="
-							}
+							},
+							"arguments": "Utente"
 						},
 						{
 							"_type": "UMLMessage",
@@ -1888,14 +1889,16 @@
 							"_parent": {
 								"$ref": "AAAAAAGIeJygVFrIEaA="
 							},
-							"name": "\"Possibilitar submissão\" = guardaDados()",
+							"name": "guardaDados",
 							"source": {
 								"$ref": "AAAAAAGIeJ8mL1sdwnM="
 							},
 							"target": {
 								"$ref": "AAAAAAGIeJ7Fv1r7E38="
 							},
-							"messageSort": "reply"
+							"messageSort": "reply",
+							"arguments": "Utente",
+							"assignmentTarget": "\"Possibilitar submissão\""
 						},
 						{
 							"_type": "UMLMessage",
