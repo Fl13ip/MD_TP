@@ -67,8 +67,8 @@
 									"font": "Arial;13;0",
 									"left": 8,
 									"top": 8,
-									"width": 1145,
-									"height": 553,
+									"width": 1009,
+									"height": 425,
 									"nameLabel": {
 										"$ref": "AAAAAAGIfdDL74z5AUI="
 									},
@@ -668,8 +668,8 @@
 										"$ref": "AAAAAAGIfdDL7oz3rjU="
 									},
 									"font": "Arial;13;0",
-									"left": 16,
-									"top": 568,
+									"left": 8,
+									"top": 448,
 									"width": 297,
 									"height": 57,
 									"text": "A Conexão Externa é a uma Base de Dados Externa Governamental que serve para validar os dados do Utente."

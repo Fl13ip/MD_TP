@@ -465,6 +465,7 @@
 											"model": {
 												"$ref": "AAAAAAGHmgjI2glV/5w="
 											},
+											"visible": false,
 											"font": "Arial;13;0",
 											"left": 237,
 											"top": 560,
@@ -484,10 +485,27 @@
 											},
 											"font": "Arial;13;0",
 											"left": 237,
-											"top": 575,
+											"top": 560,
 											"width": 215,
 											"height": 13,
 											"text": "Data de Nascimento: data",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLAttributeView",
+											"_id": "AAAAAAGIgTeF3/AOQms=",
+											"_parent": {
+												"$ref": "AAAAAAGHmehy3vZs4Ds="
+											},
+											"model": {
+												"$ref": "AAAAAAGIgTeF1PAL9Cw="
+											},
+											"font": "Arial;13;0",
+											"left": 237,
+											"top": 575,
+											"width": 215,
+											"height": 13,
+											"text": "Número ADSE: int",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2500,6 +2518,15 @@
 							},
 							"name": "Data de Nascimento",
 							"type": "data"
+						},
+						{
+							"_type": "UMLAttribute",
+							"_id": "AAAAAAGIgTeF1PAL9Cw=",
+							"_parent": {
+								"$ref": "AAAAAAGHmehy3fZkSlA="
+							},
+							"name": "Número ADSE",
+							"type": "int"
 						}
 					]
 				},
